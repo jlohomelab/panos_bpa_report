@@ -9,7 +9,7 @@ A standalone Python utility that leverages the Palo Alto Networks Strata Cloud M
 * **Pure CSS/HTML Reporting:** The generated HTML report uses 100% custom CSS for its dynamic Doughnut and Bar charts. It does not rely on external CDNs or JavaScript libraries (like Chart.js), making it highly secure and instantly loadable in offline or air-gapped environments.
 * **Interactive UI:** Features collapsible configuration sections (Device, Network, Policies, Objects) and quick-toggle buttons to hide/show "Passed" and "Note" items, allowing administrators to focus strictly on failed checks.
 * **Granular Remediation Data:** Intelligently parses the API's JSON response to extract exact `failed_fields`, explicitly highlighting which configuration parameters triggered a failure.
-* **Offline Testing Utility:** Includes a secondary script (`test_html_report.py`) to rapidly generate and preview the HTML report from a locally saved JSON payload without needing to query the API.
+
 
 ## 📋 Prerequisites
 
