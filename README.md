@@ -25,7 +25,7 @@ A standalone Python utility that leverages the Palo Alto Networks Strata Cloud M
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/panos-bpa-report.git](https://github.com/yourusername/pan-os-bpa-generator.git)
+   git clone https://github.com/jlohomelab/panos_bpa_report.git
    cd panos-bpa-report
 
 2. Open panos_bpa_report.py in a text editor.
