@@ -64,6 +64,8 @@ The generated HTML report features a golden-yellow theme and includes:
 * Category Breakdown: High-level pass/fail statistics separated by Device, Network, Policies, and Objects.
 * Detailed Configuration Check: A comprehensive, categorized table of every evaluated rule. Failed rules are highlighted with red borders/backgrounds and include specific remediation * context and exact failing parameters.
 
+<img width="1166" height="965" alt="panos_bpa_report-output-sample" src="https://github.com/user-attachments/assets/c5e2083c-08c4-4120-b64c-e5fcc259ec94" />
+
 
 ## 📝 Disclaimer
 This script is provided as-is for educational and administrative convenience. It is not officially supported or endorsed by Palo Alto Networks. Ensure you comply with your organization's security and API usage policies before uploading configuration files to cloud services.
